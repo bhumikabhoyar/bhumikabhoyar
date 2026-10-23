@@ -1,30 +1,15 @@
-Hi, I'm Bhumika Bhoyar
-
-Data Analyst | Computer Engineering graduate | Based in Nagpur, India
-
-I turn raw data into dashboards, pipelines and decisions. Currently a Data Analyst Intern at DASP Digital, working on BI dashboards, data cleaning and automation. I'm building toward Data Engineering.
-
-What I work with
-
-Area	Tools
-
-Analysis	Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL), Excel
-BI and visualisation	Power BI (DAX, Power Query), Tableau, Streamlit
-Data engineering	ETL with APIs, Docker, FastAPI, AWS (S3, EC2, IAM), MongoDB
-Workflow	Git, GitHub
-
+<h1 align="center">Bhumika Bhoyar</h1> <p align="center"> <b>Data Analyst</b> · Computer Engineering Graduate · Nagpur, India </p> <p align="center"> I turn raw data into dashboards, pipelines and decisions.<br> Data Analyst Intern at DASP Digital. Building toward Data Engineering. </p> <p align="center"> <a href="https://www.linkedin.com/in/bhumika-bhoyar07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://property-acquisition-app.streamlit.app"><img src="https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App"></a> <img src="https://img.shields.io/badge/Open_to-Data_Analyst_%7C_Data_Engineer-2EA44F?style=for-the-badge" alt="Open to work"> </p>
+Tech stack
+<p> <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,docker,aws,fastapi,git,github,vscode&perline=10" alt="Tech stack icons"> </p>
+	
+Analysis	Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel
+BI and dashboards	Power BI (DAX, Power Query), Tableau, Streamlit
+Data engineering	API-based ETL, Docker, FastAPI, AWS (S3, EC2, IAM)
 Featured projects
+<table> <tr> <td width="50%" valign="top"> <h3><a href="https://github.com/bhumikabhoyar/crypto-etl-pipeline">Crypto ETL Pipeline</a></h3> Extracts CoinGecko API data, transforms it with Pandas, and loads it into MySQL and AWS S3. Dockerized, with a Tableau dashboard.<br><br> <code>Python</code> <code>Pandas</code> <code>MySQL</code> <code>AWS S3</code> <code>Docker</code> </td> <td width="50%" valign="top"> <h3><a href="https://github.com/bhumikabhoyar/ai-job-market-analysis">AI Job Market Analysis</a></h3> Job market intelligence dashboard showing demand for skills and roles.<br><br> <code>Python</code> <code>SQL</code> <code>Power BI</code> </td> </tr> <tr> <td width="50%" valign="top"> <h3><a href="https://github.com/bhumikabhoyar/Property-Acquisition-App">Property Acquisition App</a></h3> Random Forest decision model with a Streamlit front end. <a href="https://property-acquisition-app.streamlit.app">Live app</a>.<br><br> <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code> </td> <td width="50%" valign="top"> <h3><a href="https://github.com/bhumikabhoyar/Retail-Analysis-Dashboard">Retail Analysis Dashboard</a></h3> Sales overview and customer analysis for an online retailer.<br><br> <code>Power BI</code> <code>DAX</code> </td> </tr> <tr> <td width="50%" valign="top"> <h3><a href="https://github.com/bhumikabhoyar/Business-Performance-Dashboard">Business Performance Dashboard</a></h3> KPI dashboard for finance.<br><br> <code>Power BI</code> </td> <td width="50%" valign="top"> <h3><a href="https://github.com/bhumikabhoyar/HR-Dashboard">HR Dashboard</a></h3> HR department analysis dashboard.<br><br> <code>Excel</code> </td> </tr> </table>
+What I'm working on
+Building progressive data engineering projects: ingestion, transformation, orchestration
+Strengthening Python, SQL and cloud fundamentals
+Get in touch
 
-Crypto ETL Pipeline: CoinGecko API to Pandas to MySQL and AWS S3, Dockerized, with a Tableau dashboard.
-AI Job Market Analysis: job market intelligence dashboard using Python, SQL and Power BI.
-Property Acquisition App: Random Forest decision model with a Streamlit front end (live app).
-Retail Analysis Dashboard: sales and customer analysis in Power BI.
-Business Performance Dashboard: KPI dashboard for finance in Power BI.
-
-Currently
-
-Building progressive data engineering projects (ingestion, transformation, orchestration)
-Open to Data Analyst and Data Engineer roles in Pune
-Connect
-
-LinkedIn: https://www.linkedin.com/in/bhumika-bhoyar07/
+Open to Data Analyst and Data Engineer roles in Nagpur, Hyderabad, Pune. Reach me on LinkedIn: https://www.linkedin.com/in/bhumika-bhoyar07/.
